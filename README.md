@@ -4,7 +4,7 @@ Soy un apasionado <b>desarrollador web</b>, estudiante de Ingeniería de Sistema
 
 Busco oportunidades como <b>desarrollador backend, fullstack o frontend</b>, preferiblemente con tecnologías como Angular, .NET o Python. Me interesan proyectos donde pueda aprender, aportar al equipo y crecer profesionalmente.
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-02383C?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://57r0ll3r.github.io/portafolio/)
+[![Portafolio1](https://img.shields.io/badge/Portafolio-02383C?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://57r0ll3r.github.io/portafolio/)
 
 <h3 align="left"> ¿Cómo contactarme?</h3>
 <p align="left">
