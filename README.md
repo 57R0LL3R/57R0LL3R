@@ -1,6 +1,5 @@
 # 👋 Hola, soy David Contreras
 
-
 Soy un apasionado desarrollador web, estudiante de Ingeniería de Sistemas en la Universidad de Cundinamarca (Extensión Facatativá), con enfoque en el desarrollo de software y experiencia en proyectos innovadores. Me motiva la mejora continua y la entrega de soluciones eficientes y sostenibles.
 
 Busco oportunidades como **desarrollador backend, fullstack o frontend**, preferiblemente con tecnologías como Angular, .NET o Python. Me interesan proyectos donde pueda aprender, aportar al equipo y crecer profesionalmente.
