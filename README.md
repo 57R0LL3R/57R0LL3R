@@ -23,8 +23,6 @@ Busco oportunidades como <b>desarrollador backend, fullstack o frontend</b>, pre
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=57r0ll3r&" alt="57r0ll3r" /></p>
 
 
-
-
 ### 🚀 Proyectos destacados
 
 - **PETFect Match**  
