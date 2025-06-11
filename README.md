@@ -12,7 +12,8 @@ Busco oportunidades como <b>desarrollador backend, fullstack o frontend</b>, pre
 <p align="left">
 
 <a href="https://linkedin.com/in/david-contreras-43b961278" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-contreras-43b961278" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-contreras-43b961278" height="30" width="40" />
+</a>
 <a href="https://www.hackerrank.com/57r0ll3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="57r0ll3r" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/57r0ll3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="57r0ll3r" height="30" width="40" /></a>
 </p>
