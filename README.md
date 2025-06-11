@@ -7,7 +7,8 @@ Busco oportunidades como <b>desarrollador backend, fullstack o frontend</b>, pre
 [![Portafolio](https://img.shields.io/badge/Portafolio-02383C?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://57r0ll3r.github.io/portafolio/)
 
 <h3 align="left"> 
-¿Cómo contactarme?</h3>
+¿Cómo contactarme?
+</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/david-contreras-43b961278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-contreras-43b961278" height="30" width="40" /></a>
