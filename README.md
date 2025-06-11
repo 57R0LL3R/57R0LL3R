@@ -1,4 +1,4 @@
-OK# 👋 Hola, soy David Contreras
+O# 👋 Hola, soy David Contreras
 
 Soy un apasionado <b>desarrollador web</b>, estudiante de Ingeniería de Sistemas en la Universidad de Cundinamarca (Extensión Facatativá), con enfoque en el desarrollo de software y experiencia en proyectos innovadores. Me motiva la mejora continua y la entrega de soluciones eficientes y sostenibles.
 
