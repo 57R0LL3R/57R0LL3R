@@ -9,6 +9,7 @@ Busco oportunidades como <b>desarrollador backend, fullstack o frontend</b>, pre
 <h3 align="left"> 
 ¿Cómo contactarme?
 </h3>
+
 <p align="left">
 
 <a href="https://linkedin.com/in/david-contreras-43b961278" target="blank">
