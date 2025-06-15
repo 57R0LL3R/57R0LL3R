@@ -6,7 +6,6 @@ Busco oportunidades como <b>desarrollador backend, fullstack o frontend</b>, pre
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-02383C?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://57r0ll3r.github.io/portafolio/)
 
-
 <h3 align="left"> 
 ¿Cómo contactarme?
 </h3>
